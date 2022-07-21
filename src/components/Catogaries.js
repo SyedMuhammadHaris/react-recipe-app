@@ -20,9 +20,9 @@ const Catogaries = () => {
             <GiNoodles />
             <h4>Thai</h4>
         </SLink>
-        <SLink to={'/cusine/Japanese'}>
+        <SLink to={'/cusine/Chinese'}>
             <GiChopsticks />
-            <h4>Japnese</h4>
+            <h4>Chinese</h4>
         </SLink>
     </List>
   )

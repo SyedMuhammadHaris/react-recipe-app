@@ -4,11 +4,11 @@ import Catogaries from './components/Catogaries';
 import Search from './components/Search';
 import Pages from './pages/Pages';
 import  {GiKnifeFork} from  'react-icons/gi';
-import { useEffect } from 'react';
+// import { useEffect } from 'react';
 function App() {
-  useEffect(()=>{
-    alert("Website is not mobile responsive");
-  },[]);
+  // useEffect(()=>{
+  //   alert("Website is not mobile responsive");
+  // },[]);
   return (
     <div>
  
